@@ -2,7 +2,7 @@
 Donate link: https://federicocadierno.com
 Tags: gutenberg, gutenberg editor, blocks, beautifier
 Requires at least: 5.3
-Tested up to: 5.8
+Tested up to: 6.4
 Stable tag: trunk
 Requires PHP: 7.0
 License: GPLv2 or later
@@ -46,6 +46,9 @@ Not at all, it dose not matter if your pages are already created or you start fr
 3. Edit your page or post with Editor Beautifier.
 
 == Changelog ==
+
+= 2.1.5, Apr 10 2025 =
+* Updated to Wordpress new version
 
 = 2.1, Apr 13 2022 =
 * Fix background color detector script
